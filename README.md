@@ -1,7 +1,7 @@
 # Install
 
 ```shell
-composer require ciandt/hundun
+composer require ciandt-china/hundun
 ```
 
 
