@@ -6,7 +6,7 @@ composer require ciandt/hundun
 
 
 
-# Directory
+# Profile folder structure
 
 ```markdown
 profile/hundun
